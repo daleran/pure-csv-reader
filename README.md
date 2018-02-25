@@ -2,7 +2,7 @@
 
 ## Features
 - Capable of parsing CSV sheets with single headers or multiple headers
-- Supports a 3rd deimension using the ';' semi colon delimter
+- Supports a 3rd deminsion using the ';' semi colon delimter
 - Formats the CSV into data structure that can be searched by row, column, or the name of the entry or header.
 
 ## Usage
